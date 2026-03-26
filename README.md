@@ -3,7 +3,7 @@
 <h3 align="center">🚀 React Native Developer | Building impactful mobile apps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=500&lines=React+Native+Developer;Expo+%7C+Firebase+%7C+APIs;Building+Real-World+Apps;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=500&lines=React+Native+Developer;Building+Real-World+Apps;Always+Exploring+New+Tech" />
 </p>
 
 ---
