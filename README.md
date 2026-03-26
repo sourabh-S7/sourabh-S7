@@ -62,22 +62,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sourabh-S7&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourabh-S7&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh-S7&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🧠 Fun Fact
 
 > I build apps not just for code… but for real users 📱✨  
