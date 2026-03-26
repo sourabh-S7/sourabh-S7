@@ -1,80 +1,21 @@
-<h1 align="center">Hi 👋, I'm Sourabh Shrivastava</h1>
+# 💫 About Me:
+React Native developer building real-world mobile apps. <br>Sole developer of Amiverse (2k+ users) and contributor to ConnectSRM (3k+ users).  <br>Currently exploring Web3 and decentralized applications (dApps) <br>focused on scalable, high-performance applications.
 
-<h3 align="center">🚀 React Native Developer | Building impactful mobile apps</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=500&lines=React+Native+Developer;Building+Real-World+Apps;Always+Exploring+New+Tech" />
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sourabh-shrivastava-742b64329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shrivastavasourabh03@gmail.com) 
 
----
+# 💻 Tech Stack:
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sourabh-S7&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sourabh-S7&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh-S7&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sourabh-shrivastava-742b64329">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:shrivastavasourabh03@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/sourabh-S7">
-    <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.sourabh.online">
-    <img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1sr5PwyKVQzNuwDJcVai01s7UHbLXB9ss/view">
-    <img src="https://img.shields.io/badge/-Resume-4CAF50?style=for-the-badge&logo=readthedocs&logoColor=white"/>
-  </a>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=sourabh-S7&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 👨‍💻 About Me
-
-- 📱 Building scalable mobile apps with **React Native & Expo**
-- 🎯 Focused on **performance + clean UI/UX**
-- ⚡ Love building apps that people actually use  
-
----
-
-## 🚀 Featured Projects
-
-### 📱 Amiverse  
-🎓 Student ecosystem app for Amity  
-👥 **2,000+ users**  
-🔗 https://play.google.com/store/apps/details?id=com.sourabh.av  
-
----
-
-### 📱 ConnectSRM  
-🎓 Student platform for SRM  
-👥 **5,000+ users**  
-💬 Features: Chat, community
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <!-- React Native Badge -->
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,expo,js,ts,firebase,nodejs,tailwind,git,github,vscode" />
-</p>
-
----
-
-## 🧠 Fun Fact
-
-> I build apps not just for code… but for real users 📱✨  
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sourabh-S7&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
