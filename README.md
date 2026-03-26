@@ -33,9 +33,7 @@
 ## 👨‍💻 About Me
 
 - 📱 Building scalable mobile apps with **React Native & Expo**
-- 🔥 Hands-on with **Firebase, APIs & real-time systems**
 - 🎯 Focused on **performance + clean UI/UX**
-- 🧠 Currently learning **backend & system design**
 - ⚡ Love building apps that people actually use  
 
 ---
@@ -52,14 +50,14 @@
 ### 📱 ConnectSRM  
 🎓 Student platform for SRM  
 👥 **5,000+ users**  
-💬 Features: Chat, community, networking  
+💬 Features: Chat, community
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,firebase,nodejs,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react native,react,js,ts,firebase,nodejs,tailwind,git" />
 </p>
 
 ---
@@ -77,14 +75,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh-S7&layout=compact&theme=tokyonight" />
 </p>
-
----
-
-## 🎯 Current Focus
-
-- 🚀 Scaling production-level apps  
-- 🌐 Learning backend (Node.js + system design)  
-- 💡 Exploring real-time architecture  
 
 ---
 
