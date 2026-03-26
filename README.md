@@ -57,7 +57,8 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react native,react,js,ts,firebase,nodejs,tailwind,git" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://skillicons.dev/icons?i=react,expo,js,ts,firebase,nodejs,tailwind,git,github" />
 </p>
 
 ---
