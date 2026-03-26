@@ -15,12 +15,8 @@ React Native developer building real-world mobile applications.
 
 ## 🚀 Featured Projects
 
--📱 Amiverse
-Student ecosystem app for Amity
-👥 2,000+ users
--📱 ConnectSRM
-Student platform for SRM (team project)
-👥 3,000+ users
+* 📱 **Amiverse** — Student ecosystem app for Amity | *👥 2,000+ users*
+* 📱 **ConnectSRM** — Student platform for SRM (team project) | *👥 3,000+ users*
 
 ---
 
